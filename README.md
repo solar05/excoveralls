@@ -88,7 +88,7 @@ end
     - [[mix coveralls.html] Show coverage as HTML report](#mix-coverallshtml-show-coverage-as-html-report)
     - [[mix coveralls.json] Show coverage as JSON report](#mix-coverallsjson-show-coverage-as-json-report)
     - [[mix coveralls.xml] Show coverage as XML report](#mix-coverallsxml-show-coverage-as-xml-report)
-    - [[mix coveralls.cobertura] Show coverage as Cobertura report](#mix-coverallsxml-show-coverage-as-cobertura-report)
+    - [[mix coveralls.cobertura] Show coverage as Cobertura report](#mix-coverallscobertura-show-coverage-as-cobertura-report)
     - [[mix coveralls.lcov] Show coverage as lcov report (Experimental)](#mix-coverallslcov-show-coverage-as-lcov-report-experimental)
   - [coveralls.json](#coverallsjson)
       - [Stop Words](#stop-words)
